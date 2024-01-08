@@ -597,7 +597,7 @@
 - Skipping unnecessary updates on multiple note additions
 - Skipping unnecessary updates on multiple note deletions
 - Skipping unnecessary updates on multiple note updates
-- Multi-Editor: skipping some work when possible
+- Multi-Editor: skipping some work when it possible
 - Ensuring the `Tags` special tag is never deleted
 
 ## Version 1.0.0
