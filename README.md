@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://download.notable.app">
-    <img src="https://notable.app/static/images/badges/download.png" height="42" alt="Download button" />
+    <img src="https://notable.app/static/images/badges/download.png" height="43" alt="Download button" />
   </a>
 </p>
 
